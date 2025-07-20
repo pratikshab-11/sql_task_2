@@ -1,0 +1,11 @@
+"flight_id","flight_number","origin","destination","capacity","current_passengers"
+1,"AA101","New York","Los Angeles",150,120
+2,"UA202","Chicago","Houston",180,150
+3,"DL303","Atlanta","Miami",160,130
+4,"SW404","Dallas","Denver",140,110
+5,"AS505","Seattle","San Francisco",120,100
+6,"B6606","Boston","Orlando",170,140
+7,"VX707","Las Vegas","Phoenix",130,105
+8,"NK808","Fort Lauderdale","Philadelphia",190,160
+9,"F9909","Detroit","Minneapolis",110,90
+10,"HA1010","Honolulu","Tokyo",200,180

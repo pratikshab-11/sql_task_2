@@ -1,0 +1,11 @@
+"cosmetic_id","name","brand","price","stock_quantity","category_id"
+1,"Lipstick","MAC","20.00",150,1
+2,"Foundation","Fenty Beauty","35.50",100,2
+3,"Mascara","Maybelline","10.25",200,1
+4,"Eyeshadow Palette","Urban Decay","54.00",75,3
+5,"Blush","NARS","30.00",120,1
+6,"Concealer","Tarte","27.00",130,2
+7,"Eyeliner","Kat Von D","21.00",180,1
+8,"Setting Spray","Morphe","16.00",90,4
+9,"Highlighter","Anastasia Beverly Hills","38.00",110,1
+10,"Primer","Smashbox","36.00",80,4

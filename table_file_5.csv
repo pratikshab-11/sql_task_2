@@ -1,0 +1,11 @@
+"id","name","color","price","quantity","farm_id"
+1,"Carrot","Orange",2,200,101
+2,"Broccoli","Green",2,150,102
+3,"Tomato","Red",1,300,103
+4,"Spinach","Green",2,100,101
+5,"Potato","Brown",1,500,104
+6,"Bell Pepper","Yellow",3,120,102
+7,"Cucumber","Green",1,250,103
+8,"Onion","White",1,400,104
+9,"Zucchini","Green",2,180,101
+10,"Lettuce","Green",1,220,102
